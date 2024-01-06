@@ -1,0 +1,1 @@
+pinMode(2, INPUT_PULLUP);
